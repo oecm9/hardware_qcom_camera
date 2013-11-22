@@ -33,7 +33,7 @@
 
 #include <cutils/log.h>
 //#include <ui/Overlay.h>
-#include "/home/spock/vm696/ics/android/frameworks/base/libs/ui/Overlay.h"
+#include "Overlay.h"
 #include <camera/CameraParameters.h>
 #include <hardware/camera.h>
 #include "CameraHardwareInterface.h"
